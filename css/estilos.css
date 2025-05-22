@@ -1,0 +1,62 @@
+*{
+	morgin: 0;
+	padding: 0;
+	box-sizing: border box;
+
+
+body{
+	background-image: url8(../img/Pattern-cover_1100x500-1024x465.png)
+
+	}
+	
+
+
+	#header{ 
+	width: 100% ;
+	height: 120px ;
+    background-color: #FEA47F;
+
+   #nav{
+   	with: 100% ;
+   	height: 50px;
+   	background-color: #25CCF7;
+
+
+   #section{
+    width: 100% ;
+    height: 500px;
+    background-color: #182C61;
+
+    }
+    
+    #footer{
+    	width: 50% ;
+    	height: 500px;
+    	background-color: #Fc427B;
+
+
+    }
+    
+
+    #izquierda{
+    width: 50% ;
+    height: 500px ;
+    background-color: #F8EFBA;
+    float: left;
+    padding: 70px;
+
+    }
+
+
+
+    #derecha{
+    width: 50%;
+    height:500px ;
+    background-color: #9AECDB;
+    float: left;
+    padding: 40 px; 
+
+
+
+
+
